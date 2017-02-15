@@ -1,4 +1,8 @@
 NIT Meghalaya 
 Abrar Ahmad
 roll no: b14cs027
+<<<<<<< HEAD
 15-02-2017
+=======
+TOdays date is 15-02-2017
+>>>>>>> abrar
